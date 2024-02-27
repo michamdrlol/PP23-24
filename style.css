@@ -1,0 +1,40 @@
+section,body{
+    background-color: #333333;
+    font-family: Didot;
+    text-align: center;
+    text-align: justify left;
+    font-size: large;
+    color: white; 
+    padding: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+spline-viewer{
+height: 1000px ;
+width: 1500px;
+padding: 0px;
+padding-top: 0px;
+margin-top: 0px;
+margin-left: 0px;
+padding-left: 0px;
+margin: 0px;
+}
+
+a{ 
+padding: 15px 40px;
+background: #D6310D;
+color:white;
+text-decoration: none;
+font-size; 1.2rem;
+transition; 0.5s;
+}
+
+a:hover 
+{
+    background: #767171;
+    color:white 
+    letter-spacing: 2px;
+    clip-path: ellipse(25% 40% at 50% 50%);
+}
